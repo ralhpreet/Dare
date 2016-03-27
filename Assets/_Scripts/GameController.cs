@@ -64,7 +64,7 @@ public class GameController : MonoBehaviour {
 
 	//Initial Method
 	private void _initialize() {
-		this._playerSpawnPoint = new Vector3 (0f, 1.6f, -5f);
+		this._playerSpawnPoint = new Vector3 (4.6f, -0.3f, 9.6f);
 		this.ScoreValue = 0;
 		this.LivesValue = 5;
 		this.GameOverLabel.gameObject.SetActive (false);
