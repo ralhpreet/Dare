@@ -52,8 +52,10 @@
      <Compile Include="Assets\_Scripts\CupController.cs" />
      <Compile Include="Assets\_Scripts\FireController.cs" />
      <Compile Include="Assets\_Scripts\GameController.cs" />
+     <Compile Include="Assets\_Scripts\HouseController.cs" />
      <Compile Include="Assets\_Scripts\WaterCollisionController.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+     <None Include="Assets\Baker House\Readme.txt" />
      <None Include="Assets\Water Flow Free\Shaders\Water Simple.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

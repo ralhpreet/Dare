@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\HouseController.cs">
     <Files>
-      <File FileName="Assets\_Scripts\WaterCollisionController.cs" Line="14" Column="36" />
-      <File FileName="Assets\_Scripts\GameController.cs" Line="91" Column="2" />
-      <File FileName="Assets\_Scripts\FireController.cs" Line="21" Column="25" />
-      <File FileName="Assets\_Scripts\CupController.cs" Line="23" Column="2" />
+      <File FileName="Assets\_Scripts\HouseController.cs" Line="28" Column="6" />
+      <File FileName="Assets\_Scripts\WaterCollisionController.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\GameController.cs" Line="70" Column="23" />
+      <File FileName="Assets\_Scripts\FireController.cs" Line="21" Column="4" />
+      <File FileName="Assets\_Scripts\CupController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

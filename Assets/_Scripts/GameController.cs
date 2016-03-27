@@ -43,6 +43,7 @@ public class GameController : MonoBehaviour {
 	// PUBLIC INSTANCE VARIABLES
 	public Text LivesLabel;
 	public Text ScoreLabel;
+	public Text CongratulationsLabel;
 	public Text GameOverLabel;
 	public Text HighScoreLabel;
 	public Button RestartButton;
@@ -67,6 +68,7 @@ public class GameController : MonoBehaviour {
 		this._playerSpawnPoint = new Vector3 (4.6f, -0.3f, 9.6f);
 		this.ScoreValue = 0;
 		this.LivesValue = 5;
+		this.CongratulationsLabel.gameObject.SetActive (false);
 		this.GameOverLabel.gameObject.SetActive (false);
 		this.HighScoreLabel.gameObject.SetActive (false);
 		this.RestartButton.gameObject.SetActive(false);
